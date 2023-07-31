@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='',
     version='1.0.0',
-    url='',
+    url='https://github.com/Mkbonner/classTime.git',
     author='Matthew Bonner',
     author_email='fake_email@hotmail.com',
     description='Undecided',
