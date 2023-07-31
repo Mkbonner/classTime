@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='',
+    name='jokes',
     version='1.0.0',
     url='https://github.com/Mkbonner/classTime.git',
     author='Matthew Bonner',
